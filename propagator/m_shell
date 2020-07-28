@@ -1,0 +1,30 @@
+#!/bin/sh
+
+waveletNt=256
+nStep=2000
+nx=348
+nz=648
+peakF=50
+dt=0.001
+ixsrc=$[40-24]
+izsrc=$[474 - 24]
+dx=5
+order=8
+inputfile=velocity.bin
+#mpirun -np 2 Exe_Point \
+    while (($ixsrc<300))
+    do
+        ./Exe_Point \
+        waveletNt=$waveletNt \
+        nStep=$nStep \
+        order=$order\
+        dx=$dx\
+        nx=$nx\
+        nz=$nz\
+        peakF=$peakF\
+        dt=$dt\
+        inputfile=$inputfile\
+        ixsrc=$ixsrc\
+        izsrc=$izsrc
+        let "ixsrc=ixsrc+20"
+    done

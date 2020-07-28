@@ -1,0 +1,31 @@
+--------------------------------
+Compiling src...
+--------------------------------
+compiling lib
+--------------------------------
+Compiling libraries...
+--------------------------------
+compiling OperatorLib
+************Making lib OperatorLib************************
+          
+source files:./operator.cpp
+          
+object files:./operator.o
+          
+include files:./operator.h
+          
+compiling RaytraceLib
+compiling WavefrontLib
+compiling SIRTLib
+************Making lib OperatorLib************************
+          
+source files:./Sirt.cpp
+          
+object files:./Sirt.o
+          
+include files:./Sirt.h
+          
+compiling apps
+--------------------------------
+Compiling apps...
+--------------------------------

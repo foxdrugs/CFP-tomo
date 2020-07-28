@@ -1,0 +1,2552 @@
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+argv[0]=Exe_Point
+argv[1]=waveletNt=256
+argv[2]=nStep=1700
+argv[3]=order=16
+argv[4]=dx=2
+argv[5]=nx=400
+argv[6]=nz=600
+argv[7]=peakF=50
+argv[8]=dt=0.01
+argv[9]=speed=1500
+argv[10]=inputfile=velocity.bin
+argv[11]=outfile=
+argv[12]=ixsrc=50
+argv[13]=izsrc=50
+argv[14]=interval=5
+argv[15]=xFocus=200
+argv[16]=zFocus=300
+argv[17]=detector=50
+n1=1700
+n2=304
+get in the MPI
+read correct
+detector=50
+xsrc=200
+zrc=300
+operator.bin
+change the velocity
+read correct
+detector=50
+read correct
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+xsrc=130
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+read correct
+detector=50
+read correct
+detector=50
+read correct
+read correct
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+detector=50
+read correct
+xsrc=55
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=65
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+xsrc=70
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+read correct
+xsrc=115
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+read correct
+xsrc=165
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=200
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=225
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+read correct
+detector=50
+read correct
+read correct
+xsrc=85
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=240
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+xsrc=110
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=120
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=145
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=190
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=220
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=230
+xsrc=140
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=160
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=210
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=245
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+detector=50
+xsrc=255
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+read correct
+read correct
+read correct
+read correct
+read correct
+read correct
+read correct
+read correct
+detector=50
+read correct
+xsrc=90
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+detector=50
+detector=50
+detector=50
+read correct
+detector=50
+detector=50
+detector=50
+detector=50
+detector=50
+detector=50
+xsrc=205
+detector=50
+detector=50
+detector=50
+read correct
+detector=50
+detector=50
+detector=50
+detector=50
+detector=50
+read correct
+detector=50
+detector=50
+detector=50
+xsrc=295
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=320
+xsrc=75
+detector=50
+xsrc=100
+xsrc=290
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+xsrc=180
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=185
+xsrc=260
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+xsrc=285
+xsrc=315
+xsrc=105
+xsrc=280
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=155
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=215
+zrc=50
+direct_wave.bin
+change the velocity
+read correct
+detector=50
+xsrc=250
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=300
+xsrc=175
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=325
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+xsrc=330
+detector=50
+xsrc=345
+xsrc=95
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=80
+zrc=50
+direct_wave.bin
+xsrc=150
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=125
+zrc=50
+direct_wave.bin
+change the velocity
+change the velocity
+read correct
+xsrc=350
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=310
+xsrc=265
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+detector=50
+direct_wave.bin
+change the velocity
+xsrc=270
+detector=50
+detector=50
+read correct
+read correct
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=305
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+read correct
+detector=50
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=275
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+detector=50
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=60
+xsrc=195
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=340
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=135
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=170
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=335
+zrc=50
+direct_wave.bin
+change the velocity
+xsrc=235
+zrc=50
+direct_wave.bin
+change the velocity
+zrc=50
+direct_wave.bin
+change the velocity
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=325
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=190
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=255
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(operator.bin)=1700
+n2(operator.bin)=304
+read correct
+detector=50
+xsrc=200
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=250
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=195
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=130
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=210
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=135
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=240
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n1(Propagator.bin)=600
+n2(direct_wave.bin)=304
+n2(Propagator.bin)=400
+read correct
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+detector=50
+xsrc=295
+zrc=50
+offset.bin
+no change
+read correct
+detector=50
+xsrc=110
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=165
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=80
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+detector=50
+n1(direct_wave.bin)=1700
+xsrc=305
+zrc=50
+offset.bin
+no change
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+read correct
+detector=50
+n1(direct_wave.bin)=1700
+xsrc=220
+zrc=50
+offset.bin
+no change
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=320
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=90
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=105
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=260
+zrc=50
+offset.bin
+no change
+read correct
+detector=50
+xsrc=265
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=290
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=115
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=345
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=225
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=70
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=100
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=185
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=205
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+read correct
+detector=50
+n1(direct_wave.bin)=1700
+xsrc=160
+zrc=50
+offset.bin
+no change
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=340
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=300
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=335
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=285
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=215
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=55
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=275
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=180
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=120
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=150
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=155
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=270
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=235
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=330
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=315
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=175
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+zrc=50
+offset.bin
+no change
+read correct
+detector=50
+n1(Propagator.bin)=600
+xsrc=95
+zrc=50
+offset.bin
+no change
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=230
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=245
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+read correct
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+detector=50
+read correct
+xsrc=170
+detector=50
+zrc=50
+offset.bin
+no change
+xsrc=60
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=65
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=310
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=350
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=145
+zrc=50
+offset.bin
+no change
+read correct
+detector=50
+xsrc=85
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=280
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=75
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=140
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(direct_wave.bin)=1700
+n2(direct_wave.bin)=304
+read correct
+detector=50
+xsrc=125
+zrc=50
+offset.bin
+no change
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset195.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset325.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset135.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset190.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset250.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset305.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset80.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset130.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset220.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset200.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset240.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset160.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset210.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset90.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset290.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset265.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset260.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset295.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset225.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset255.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset115.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset345.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset110.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset205.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset165.bin
+offset185.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset105.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset100.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset300.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset320.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset70.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset155.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset285.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset350.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset270.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+offset275.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+offset340.bin
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset175.bin
+offset170.bin
+offset55.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset150.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset245.bin
+offset120.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset215.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset60.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset235.bin
+offset180.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset95.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset145.bin
+offset280.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset230.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset75.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset140.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset315.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset310.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset335.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset330.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset85.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset65.bin
+n1(Propagator.bin)=600
+n2(Propagator.bin)=400
+n1(offset.bin)=1700
+n2(offset.bin)=304
+offset125.bin
+Time taken to execute commands is 166 seconds.
